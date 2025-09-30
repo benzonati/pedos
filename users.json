@@ -2,7 +2,19 @@
   "data": [
     {
       "id": 7826248211,
-      "reason": "Inappropriate clothing, group(s)"
+      "reason": "Inappropriate clothing, group(s), and/or connection(s)"
+    },
+    {
+      "id": 9600506925,
+      "reason": "Username"
+    },
+    {
+      "id": 9449728497,
+      "reason": "Inappropriate clothing, group(s), and/or connection(s)"
+    },
+    {
+      "id": 9607286000,
+      "reason": "Username"
     }
   ]
 }
